@@ -21,8 +21,5 @@ int* solution(int num_list[], size_t num_list_len) {
         answer[num_list_len] = answer[num_list_len-1]*2;
     }
     
-    
-    
-    
     return answer;
 }

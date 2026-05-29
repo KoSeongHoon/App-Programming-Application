@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdbool.h>
 #include <stdlib.h>
+#include <string.h>
 
 
 //https://school.programmers.co.kr/learn/courses/30/lessons/181911
